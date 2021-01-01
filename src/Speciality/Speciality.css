@@ -1,0 +1,62 @@
+.navbar {
+  padding-left: 470px !important;
+  /* width: 100%; */
+  width: 100%;
+  height: 100px;
+}
+.nav-item {
+  /* padding-right: 53px !important; */
+  padding-top: 50px;
+  padding-bottom: 27px;
+  font-family: Poppins;
+  font-style: normal;
+  font-weight: 300;
+  font-size: 15px;
+  padding-right: 30px !important;
+  /* line-height: 22px; */
+  /* identical to box height */
+
+  color: #ffffff;
+}
+a.navlink {
+  padding: 0px !important;
+}
+.pic {
+  /* width: 100%; */
+  height: 500px;
+  background: url("../Image/illustration.png");
+}
+.heading {
+  padding-left: 100px;
+  padding-bottom: 91px;
+  font-family: SF Pro Display;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 42px;
+  line-height: 50px;
+  color: #000000;
+  text-align: left;
+}
+.link {
+  font-family: SF Pro Display;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 37px;
+  line-height: 44px;
+  color: #000000;
+  text-decoration: none !important;
+}
+
+.Image {
+  height: 122px;
+  width: 122px;
+  margin-right: 60px;
+}
+.footer {
+  /* position: absolute; */
+  height: 396px;
+  background: #000000;
+}
+.Speciality {
+  overflow-x: hidden;
+}
