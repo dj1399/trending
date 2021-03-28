@@ -1,27 +1,28 @@
 {
   "files": {
-    "main.css": "/trending/static/css/main.de9e643e.chunk.css",
-    "main.js": "/trending/static/js/main.f70b7f3f.chunk.js",
-    "main.js.map": "/trending/static/js/main.f70b7f3f.chunk.js.map",
-    "runtime-main.js": "/trending/static/js/runtime-main.7d4dd9d0.js",
-    "runtime-main.js.map": "/trending/static/js/runtime-main.7d4dd9d0.js.map",
-    "static/js/2.ebec5d16.chunk.js": "/trending/static/js/2.ebec5d16.chunk.js",
-    "static/js/2.ebec5d16.chunk.js.map": "/trending/static/js/2.ebec5d16.chunk.js.map",
-    "static/js/3.c3c9b77a.chunk.js": "/trending/static/js/3.c3c9b77a.chunk.js",
-    "static/js/3.c3c9b77a.chunk.js.map": "/trending/static/js/3.c3c9b77a.chunk.js.map",
+    "main.css": "/trending/static/css/main.e853c282.chunk.css",
+    "main.js": "/trending/static/js/main.fc9a66e6.chunk.js",
+    "main.js.map": "/trending/static/js/main.fc9a66e6.chunk.js.map",
+    "runtime-main.js": "/trending/static/js/runtime-main.020888d2.js",
+    "runtime-main.js.map": "/trending/static/js/runtime-main.020888d2.js.map",
+    "static/js/2.6809643a.chunk.js": "/trending/static/js/2.6809643a.chunk.js",
+    "static/js/2.6809643a.chunk.js.map": "/trending/static/js/2.6809643a.chunk.js.map",
+    "static/js/3.2c489109.chunk.js": "/trending/static/js/3.2c489109.chunk.js",
+    "static/js/3.2c489109.chunk.js.map": "/trending/static/js/3.2c489109.chunk.js.map",
     "index.html": "/trending/index.html",
-    "static/css/main.de9e643e.chunk.css.map": "/trending/static/css/main.de9e643e.chunk.css.map",
-    "static/js/2.ebec5d16.chunk.js.LICENSE.txt": "/trending/static/js/2.ebec5d16.chunk.js.LICENSE.txt",
+    "static/css/main.e853c282.chunk.css.map": "/trending/static/css/main.e853c282.chunk.css.map",
+    "static/js/2.6809643a.chunk.js.LICENSE.txt": "/trending/static/js/2.6809643a.chunk.js.LICENSE.txt",
     "static/media/ayurveda.97da404b.svg": "/trending/static/media/ayurveda.97da404b.svg",
     "static/media/derma.2d608089.svg": "/trending/static/media/derma.2d608089.svg",
-    "static/media/Speciality.css": "/trending/static/media/illustration.98e8dfd0.png",
+    "static/media/Issue.css": "/trending/static/media/illustration.98e8dfd0.png",
+    "static/media/issue.4901e79b.svg": "/trending/static/media/issue.4901e79b.svg",
     "static/media/neuro.9a340034.svg": "/trending/static/media/neuro.9a340034.svg",
     "static/media/ophta.4d2826d5.svg": "/trending/static/media/ophta.4d2826d5.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.7d4dd9d0.js",
-    "static/js/2.ebec5d16.chunk.js",
-    "static/css/main.de9e643e.chunk.css",
-    "static/js/main.f70b7f3f.chunk.js"
+    "static/js/runtime-main.020888d2.js",
+    "static/js/2.6809643a.chunk.js",
+    "static/css/main.e853c282.chunk.css",
+    "static/js/main.fc9a66e6.chunk.js"
   ]
 }
