@@ -4,26 +4,16 @@
   width: 100%;
   height: 100px;
 }
-.first {
+/* .first {
   padding-left: 173px;
-  /* border-right: 5px solid black; */
 }
-.spec_col {
-  padding: 0;
-}
-input.form-control{
-  margin-left: 384px !important;
-    margin-top: 319px !important;
-}
-.speciality_givePaddingLeft {
-  padding-left: 170px;
-}
-.speciality_givePaddingRight {
-  padding-left: 100px;
-}
-.giveborder {
-  border-right: 2px solid black;
-}
+
+.vl {
+  border: 30px solid green;
+  height: 50px;
+  margin-left: 200px;
+} */
+
 .nav-item {
   /* padding-right: 53px !important; */
   padding-top: 50px;
@@ -41,14 +31,14 @@ input.form-control{
 a.navlink {
   padding: 0px !important;
 }
-.pic {
+.issue__pic {
   /* width: 100%; */
-  height: 70vh !important;
+  height: 70vh ;
   width: 100vw;
   background: url("../Image/illustration.png");
   margin-bottom: 30px;
 }
-.heading {
+.issue__heading {
   padding-left: 100px;
   padding-bottom: 91px;
   font-family: SF Pro Display;
@@ -59,7 +49,7 @@ a.navlink {
   color: #000000;
   text-align: left;
 }
-.link {
+.issue__link {
   font-family: SF Pro Display;
   font-style: normal;
   font-weight: 500;
@@ -69,19 +59,49 @@ a.navlink {
   text-decoration: none !important;
 }
 
-.Image {
+.issue__Image {
   height: 122px;
   width: 122px;
   margin-right: 60px;
 }
-.footer {
+.issue__footer {
   /* position: absolute; */
   height: 396px;
   background: #000000;
 }
-/* .Speciality {
-  overflow-x: hidden;
+.issue_givePaddingLeft {
+  padding-left: 170px;
+}
+.issue_givePaddingRight {
+  padding-left: 100px;
+}
+
+  
+/* @media (max-width: 1370px) {
+  .issue__link {
+    margin-right: 0% !important;
+    padding-left: 0% !important;
+  }
+  .issue__second {
+    padding-left: 65% !important;
+  }
+   .pic {
+    height: 50vh !important;
+  } 
+  .issue__link {
+    font-size: 25px;
+  }
+  input.form-control {
+    width: 500px !important;
+    margin-bottom: 20%;
+    margin-top: 60% !important;
+    margin-left: 70% !important;
+  } 
+  .navbar {
+    padding-left: 30% !important;
+  }
 } */
+
 @media (max-width:1100px)
 {
   input.form-control
@@ -90,13 +110,13 @@ a.navlink {
     margin-left: 50% !important;
     margin-top: 70% !important;
   }
-  .Image
+  .issue__Image
   {
     height: 70px !important;
     width: 70px !important;
     margin-right: 40px !important;
   }
-  .speciality_givePaddingLeft {
+  .issue_givePaddingLeft {
     padding-left: 100px;
 }
 .nav-link
@@ -106,17 +126,17 @@ a.navlink {
   
 }
 @media (max-width: 1200px) {
-  .link {
+  .issue__link {
     margin-right: 0% !important;
     padding-left: 0% !important;
   }
   .second {
     padding-left: 65% !important;
   }
-  .pic {
-    height: 50vh !important;
+  .issue__pic {
+    height: 50vh ;
   }
-  .link {
+  .issue__link {
     font-size: 25px;
   }
   input.form-control {
@@ -131,8 +151,8 @@ a.navlink {
 }
 
 @media (max-width: 1680px) {
-   .pic{
-     height:80vh !important;
+   .issue__pic{
+     height:80vh;
    }
    .form-control
    {
